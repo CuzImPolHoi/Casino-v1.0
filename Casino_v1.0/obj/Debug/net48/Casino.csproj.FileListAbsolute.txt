@@ -1,0 +1,17 @@
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\bin\Debug\net48\Casino.exe.config
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\bin\Debug\net48\Casino.exe
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\bin\Debug\net48\Casino.pdb
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.csprojAssemblyReference.cache
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.AssemblyInfoInputs.cache
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.AssemblyInfo.cs
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.exe
+C:\Users\Netixx\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.pdb
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.exe
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.pdb
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\bin\Debug\net48\Casino.exe.config
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\bin\Debug\net48\Casino.exe
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.csprojAssemblyReference.cache
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.AssemblyInfoInputs.cache
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.AssemblyInfo.cs
+C:\Users\paulk\OneDrive\Programming\C#\Projects\Casino\obj\Debug\net48\Casino.csproj.CoreCompileInputs.cache

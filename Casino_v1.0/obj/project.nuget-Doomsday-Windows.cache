@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y76LlLewwpakM9sVqNrgIMIFu/q2P2jBODO8cqxGhT9NPSt/5K/qtEz5XG3e+r6pde/kEkTIDjeWRZlRkEasxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulk\\OneDrive\\Programming\\C#\\Projects\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulk\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\paulk\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.0\\microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
